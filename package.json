@@ -1,0 +1,28 @@
+{
+  "name": "exploretwitter",
+  "version": "2.0.0",
+  "description": "I am exploring the Twitter API",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willperez23/ExploreTwitter.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Beginner"
+  ],
+  "author": "William Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willperez23/ExploreTwitter/issues"
+  },
+  "homepage": "https://github.com/willperez23/ExploreTwitter#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {}
+}
